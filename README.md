@@ -1,1 +1,1 @@
-# rust-self-study
+This is a repository to help me learn about Rust. The instruction in this repository following *the Rust Programming Language* book, also referred as "the book". 
