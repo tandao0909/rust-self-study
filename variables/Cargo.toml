@@ -1,6 +1,5 @@
-workspace = { members = [ "game", "guessing_game","hello_cargo", "variables"] }
 [package]
-name = "rust-self-study"
+name = "variables"
 version = "0.1.0"
 edition = "2021"
 
